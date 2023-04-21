@@ -1,1 +1,0 @@
-Uso del estandar C11
